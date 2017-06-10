@@ -10,9 +10,7 @@ android 4.4 SDK 开始支持Translucent StatusBar的配置，所以 4.4 是一�
 
 android 4.4 以下：正常显示content、drawer layout的nav，不被StatusBar遮挡。
 
-![sdk_19](/img/sdk_19.png)!
-
-[sdk_19_open_drawer](/img/sdk_19_open_drawer.png)
+![sdk_19](/img/sdk_19.png) ![sdk_19_open_drawer](/img/sdk_19_open_drawer.png)
 
 android 4.4 ：StatusBar全透明，content、drawer layout的nav不被遮挡。
 
